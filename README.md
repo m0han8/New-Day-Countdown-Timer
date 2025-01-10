@@ -1,8 +1,5 @@
 # New-Day-Countdown-Timer
 
-
-# New Day Countdown Timer
-
 A simple and visually appealing countdown timer that tracks the remaining time until the start of the next day. This project is built using **HTML**, **CSS**, and **JavaScript**.
 
 ---
